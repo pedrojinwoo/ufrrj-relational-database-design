@@ -1,4 +1,4 @@
-# Corporate Relational Database Design & Optimization 🗄️⚙️
+# Corporate Relational Database Design & Optimization
 
 [![UFRRJ](https://img.shields.io/badge/UFRRJ-Computer%20Science-blue)](https://portal.ufrrj.br/)
 [![License](https://img.shields.io/badge/license-MIT-green)](#)
